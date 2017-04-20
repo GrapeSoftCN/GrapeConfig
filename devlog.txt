@@ -1,0 +1,2 @@
+1:尽可能使用gfw的包功能提供configServer
+2:JGrapeFW SQL组合操作增加原子性
